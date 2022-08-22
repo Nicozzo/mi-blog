@@ -40,7 +40,6 @@ const details = ({post}) => {
             <p>Id del post : {post.id}</p>
             <p>User Id del post : {post.userId}</p>
             <p>Contenido : {post.body}</p>
-
         </div>
     </Layout>
     )
